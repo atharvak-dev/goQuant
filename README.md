@@ -98,3 +98,4 @@ cargo test
 Confidential - GoQuant Recruitment Assignment
 
 # goQuant
+# goQuant
